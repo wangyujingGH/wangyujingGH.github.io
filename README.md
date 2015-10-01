@@ -1,2 +1,2 @@
 # wangyujingGH.github.io
-王宇净博客
+WangYujing_Oishi博客
